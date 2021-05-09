@@ -1,5 +1,4 @@
-# ShopifyDSChallenge
-Shopify Fall 2021 Data Science Challenge
+# Shopify Fall 2021 Data Science Challenge
 
 I wrote this up in a jupyter notebook so it is viewable within github if you click on the .ipynb file
 
